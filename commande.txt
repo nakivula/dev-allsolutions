@@ -1,0 +1,3 @@
+- commande git configurer environnemznt de developpement
+
+1) git config --global user.name "nakivula"
